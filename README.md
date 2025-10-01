@@ -8,7 +8,7 @@
 
 ---
 
-## 🧐 원본 모델 분석
+## 🔎 원본 모델 분석
 
 <table>
   <tr align="center">
@@ -27,18 +27,17 @@
 
 ---
 
-## 📊 프루닝 및 파인튜닝 결과
+## 🚀 프루닝 및 파인튜닝 결과
 
-<table>
-  <tr align="center">
-    <td width="50%" style="vertical-align: top;">
-      <h3>📈 랭크 계산결과</h3>
-      <img src="./assets/랭크계산결과.png" alt="랭크 계산결과" width="100%">
-    </td>
-    <td width="50%" style="vertical-align: top;">
-      <h3>🚀 파인튜닝 결과</h3>
-      <p><strong>Remaining Ratio = [0.3, 0.4, 0.5, 0.7]</strong></p>
-      <img src="./assets/파인튜닝결과.png" alt="파인튜닝 결과" width="100%">
-    </td>
-  </tr>
-</table>
+<h3 align="center">📈 랭크 계산 결과</h3>
+<p align="center">
+  <img src="./assets/랭크계산결과.png" alt="랭크 계산결과" width="100%">
+</p>
+
+<h3 align="center">✨ 파인튜닝 결과</h3>
+<p align="center">
+  <strong>Remaining Ratio = [0.3, 0.4, 0.5, 0.7]</strong>
+</p>
+<p align="center">
+  <img src="./assets/파인튜닝결과.png" alt="파인튜닝 결과" width="60%">
+</p>
